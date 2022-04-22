@@ -1,0 +1,45 @@
+district,resolution,count
+Central,Open or Active,31362
+Northern,Open or Active,29912
+Southern,Open or Active,24102
+Mission,Open or Active,24035
+Bayview,Open or Active,17706
+Ingleside,Open or Active,15379
+Taraval,Open or Active,15323
+Richmond,Open or Active,14736
+Tenderloin,Open or Active,14671
+Park,Open or Active,9549
+Tenderloin,Cite or Arrest Adult,7823
+Mission,Cite or Arrest Adult,7194
+Out of SF,Open or Active,7078
+Central,Cite or Arrest Adult,6574
+Southern,Cite or Arrest Adult,5989
+Northern,Cite or Arrest Adult,4559
+Bayview,Cite or Arrest Adult,3580
+Ingleside,Cite or Arrest Adult,2545
+Taraval,Cite or Arrest Adult,2186
+Park,Cite or Arrest Adult,1831
+Richmond,Cite or Arrest Adult,1446
+Out of SF,Cite or Arrest Adult,820
+Southern,Exceptional Adult,198
+Southern,Unfounded,179
+Out of SF,Unfounded,154
+Mission,Unfounded,131
+Tenderloin,Unfounded,119
+Central,Unfounded,110
+Ingleside,Unfounded,107
+Bayview,Unfounded,100
+Northern,Unfounded,93
+Richmond,Unfounded,82
+Bayview,Exceptional Adult,73
+Taraval,Unfounded,71
+Park,Exceptional Adult,67
+Central,Exceptional Adult,55
+Ingleside,Exceptional Adult,53
+Park,Unfounded,52
+Tenderloin,Exceptional Adult,49
+Mission,Exceptional Adult,46
+Out of SF,Exceptional Adult,40
+Richmond,Exceptional Adult,39
+Northern,Exceptional Adult,38
+Taraval,Exceptional Adult,28
